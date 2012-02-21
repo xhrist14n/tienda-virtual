@@ -1,0 +1,13 @@
+Hi {firstname} {lastname},
+
+A voucher has been created in your name as a result of your order #{id_order}.
+
+Voucher code: {voucher_num}, in the amount of {voucher_amount}.
+
+Simply copy/paste this code during the payment process for your next order.
+
+Thank you for shopping at {shop_name}.
+
+{shop_name} - {shop_url}
+
+{shop_url} powered by PrestaShop™
